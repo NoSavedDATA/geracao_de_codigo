@@ -1,0 +1,10 @@
+1. O sistema deve possuir back-end em python, e front-end em node.js
+
+2. O sistema deve realizar cadastro de usuários.
+
+3. O banco de dados deve ser local.
+
+4. O sistema deve gerenciar a troca de mensagem entre os usuários
+
+5. O sistema deve possuir um administrador que possa remover usuários
+
