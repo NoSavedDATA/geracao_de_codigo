@@ -1,5 +1,7 @@
 Passo 1: deletar outputs
 ```bash
+export OPENAI_API_KEY="sua_chave"
+
 python proj.py
 ```
 Instalar as dependências geradas dentro de outputs
